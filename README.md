@@ -62,5 +62,5 @@ services:
 Finally, run `docker-compose` to start and configure the container
 
 ```shell
-$ mkdir confing && docker-compose up --d
+$ mkdir config && docker-compose up --d
 ```
