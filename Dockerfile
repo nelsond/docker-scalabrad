@@ -1,7 +1,6 @@
 FROM openjdk:8
 
 ENV SCALA_LABRAD_VERSION=0.8.3
-ENV LABRADPASSWORD=secret
 
 ENV PATH="/usr/local/scalabrad/bin:${PATH}"
 
